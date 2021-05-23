@@ -1,12 +1,19 @@
 <h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/94961906-704d5600-04aa-11eb-8721-34266eee5200.png">
+ <img src="https://user-images.githubusercontent.com/45159366/119279027-f1925e00-bbdd-11eb-8fd2-dc16d84086a9.png">
   <br />
   R Guide
 </h1>
 
 #### A guide covering R programming language including the applications and tools that will make you a better and more efficient R developer.
 
-## Resources
+**Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
+ 
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/119279016-e5a69c00-bbdd-11eb-9d08-1485c5ef45df.png">
+  <br />
+</p>
+
+# R Learning Resources
 
 [R](https://www.r-project.org/) is an open source software environment for statistical computing and graphics. It compiles and runs on a wide variety of  platforms such as Windows and MacOS. 
 
@@ -30,7 +37,7 @@
 
 [Learn R For Data Science by Udacity](https://www.udacity.com/course/programming-for-data-science-nanodegree-with-R--nd118)
 
-## Tools
+# R Tools, Libraries and Frameworks
 
 [RStudio](https://rstudio.com/) is an integrated development environment for R and Python, with a console, syntax-highlighting editor that supports direct code execution, and tools for plotting, history, debugging and workspace management.
 
@@ -65,3 +72,12 @@
 [Knitr](https://yihui.org/knitr/) is a general-purpose literate programming engine in R, with lightweight API's designed to give users full control of the output without heavy coding work.
 
 [Broom](https://broom.tidymodels.org/) is a tool that converts statistical analysis objects from R into tidy format.
+
+## Contribute
+
+- [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/R-Guide/pulls).
+
+
+## License
+
+Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
